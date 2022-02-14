@@ -1,4 +1,4 @@
-# Arquitetura de Computadores
+# Base Computacional - Arquitetura de Computadores
 Por [Vitória Gomes](https://github.com/vitoriacgomes)
 
 ## Tema 1
