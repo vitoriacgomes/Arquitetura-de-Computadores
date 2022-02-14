@@ -37,7 +37,27 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
   
  </details>
  
+ <details>
+  <summary>Principais tipos de software</summary>
+  
+  Podemos dividir em dois tipos:
+  
+                softwares finalisticos ou de aplicação                  X                         softwares de sistemas
+      Rodados de forma consciente (navegadores, planilhas, jogos)            determinam como se controla e acessa determinado periferico, permitem 
+                                                                                    o funcionamento dos finalisticos. (placa de rede)
+  
+ </details>
+ 
+### Módulo 3 - Interpretar o papel do Sist. Operaninal nos Computadores
+
+* Funções do SO:  Servir como uma camada de abstração entre o hardware e a aplicação do usuário, Cuidar da alocação do armazenamento e da memória principal, Informar quando e quais programas ganham acesso ao uso do processador, Escolher quando determinados programas devem passar o uso do processador para outro programa. (resumidamente ele é um programa intermediario que gerencia os recursos de hardware e fornece acesso a eles para os outros programas)
+
+* BIOS: O BIOS é carregado quando ligamos o computador,  pois ele está gravado em uma memória não volátil na placa-mãe. Esse carregamento é feito antes de iniciarmos o OS. Logo, o BIOS não depende de acesso ao Sistema Operacional.
+
 ### Módulo 4 - Relacionar a importância da comunicação em rede com os sistemas computacionais
 
+
+ ![image](https://user-images.githubusercontent.com/81329027/153922856-66486fe4-4844-49f3-aef6-bec9035c01b5.png)
+
  
- 
+ A World Wide Web é o conjunto de páginas de hipertexto (texto com links para outras páginas) que surgiu no início da difusão da internet – o principal serviço utilizado nela. Ao iniciarmos nosso programa navegador de internet (em browsers como Chrome, Firefox, Safari ou Internet Explorer), navegamos pelas páginas da WWW . Há diversos outros serviços que utilizam a internet para se conectar aos usuários, como e-mail, mensagens instantâneas, jogos on-line etc.
