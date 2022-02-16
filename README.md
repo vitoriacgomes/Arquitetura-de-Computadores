@@ -92,5 +92,16 @@ L = Largura (quantidade) de bits do BE ou de cada endereço.) Sabendo que as uni
 
 ### Módulo 2 - Examinar os princípios básicos dos subsistemas de processamento, memória e entrada e saída
 
- 
+A ***UCP*** possui duas funções principais:
+
+função de processamento: responsável pelo processamento de dados
+função controle: realiza atividades de buscar a instrução, interpretar ações, gerar sinais.
+
+***Memoria***
+Hierarquia de memórias: -> Registradores, memoria cache, memoria principal, memoria secundaria, memoria virtual.
+
+
+
+
+
  
