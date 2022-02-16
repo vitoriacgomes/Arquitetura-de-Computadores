@@ -79,8 +79,9 @@ Informação: Conhecimento a partir dos dados
 ***Tipos de linguagem***
 
              Baixo Nível de Abstração                 x           Alto nível de abstração
-   Usa os mnemonios, arquitetura de processador.                Pascal, Fortran, C++, Delphi
-        Linguagem de montagem, aAssembly
+    Usa os mnemonios, arquitetura de processador.                Pascal, Fortran, C++, Delphi
+       Linguagem de montagem, aAssembly
+  
  
 ***Processadores***
  Projetados para realizarem pequenas e simples operações pelo hardware. ( operações aritmetricas, mover dados, desviar a sequencia de controle)
@@ -100,6 +101,20 @@ função controle: realiza atividades de buscar a instrução, interpretar açõ
 ***Memoria***
 Hierarquia de memórias: -> Registradores, memoria cache, memoria principal, memoria secundaria, memoria virtual.
 
+Memoria cache: memoria pequena capacidade, situada entre memoria principal e o processador. Memoria temporaria, armazena dados utilizados no momento.
+
+Memoria principal (RAM): memoria basica, dados armazenados, onde o processador busque as instruções. Dois tipos:
+
+             SRAM               x                 DRAM
+    bit (5 a 7 transistores)          bit (1capacitor e 1 transmissor)
+    mais caras, mais espaços           usada como memoria principal
+     usadas como cache
+           
+           
+
+         
+         
+         
 
 
 
