@@ -1,10 +1,12 @@
-# Base Computacional - Arquitetura de Computadores
+# 💻 Arquitetura de Computadores
 Por [Vitória Gomes](https://github.com/vitoriacgomes)
 
 ## Tema 1
 ***Descrição:*** Conceitos básicos de computadores. Evolução histórica e principais componentes.
 
 ***Próposito:*** Ilustrar a origem e a evolução dos computadores para a compreensão do funcionamento dos atuais sistemas computacionais.
+<details>
+  <summary>Base Computacional</summary>
 
 ### Módulo 1 - Reconhecer a evolução histórica dos Computadores 
   
@@ -61,3 +63,15 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 
  
  A World Wide Web é o conjunto de páginas de hipertexto (texto com links para outras páginas) que surgiu no início da difusão da internet – o principal serviço utilizado nela. Ao iniciarmos nosso programa navegador de internet (em browsers como Chrome, Firefox, Safari ou Internet Explorer), navegamos pelas páginas da WWW . Há diversos outros serviços que utilizam a internet para se conectar aos usuários, como e-mail, mensagens instantâneas, jogos on-line etc.
+  
+</details>
+
+## Tema 2
+***Descrição:*** A importância e a utilização dos componentes de hardware dos computadores.
+***Propósito:*** Aprender que um sistema de computação é um conjunto interconectado e inter-relacionado de componentes principais e subcomponentes.
+
+### Módulo 1 - Identificar a estrutura básica de um computador
+
+
+ 
+ 
