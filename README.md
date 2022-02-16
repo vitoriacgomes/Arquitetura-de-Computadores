@@ -68,10 +68,29 @@ Por [Vitória Gomes](https://github.com/vitoriacgomes)
 
 ## Tema 2
 ***Descrição:*** A importância e a utilização dos componentes de hardware dos computadores.
+
 ***Propósito:*** Aprender que um sistema de computação é um conjunto interconectado e inter-relacionado de componentes principais e subcomponentes.
 
 ### Módulo 1 - Identificar a estrutura básica de um computador
 
+Dados:  Conjunto de fatos                        
+Informação: Conhecimento a partir dos dados
+       
+***Tipos de linguagem***
+
+             Baixo Nível de Abstração                 x           Alto nível de abstração
+   Usa os mnemonios, arquitetura de processador.                Pascal, Fortran, C++, Delphi
+        Linguagem de montagem, aAssembly
+ 
+***Processadores***
+ Projetados para realizarem pequenas e simples operações pelo hardware. ( operações aritmetricas, mover dados, desviar a sequencia de controle)
+ 
+ ***Barramento***
+ 
+ A quantidade de endereços de memória a serem endereçados pelo barramento de endereços é obtida da seguinte forma: N = 2L. (N = Quantidade de endereços.
+L = Largura (quantidade) de bits do BE ou de cada endereço.) Sabendo que as unidades são: 1k = 2¹° / 1M = 2²° / 1G e 1T.
+
+### Módulo 2 - Examinar os princípios básicos dos subsistemas de processamento, memória e entrada e saída
 
  
  
